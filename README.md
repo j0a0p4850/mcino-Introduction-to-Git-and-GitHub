@@ -12,7 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
-Modify README for Coursera Test
+I just want to finish this thing
 
 _© 2022 XYZ, Inc._
